@@ -19,8 +19,8 @@ export default {
     resourceTitle: String,
     resourceDescription: String,
     resourceLink: String,
-  }
-}
+  },
+};
 </script>
 
 <style scoped>
